@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/java:0-17
+FROM mcr.microsoft.com/devcontainers/java
 
-RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
-    && apt-get -y install git docker
+RUN apt-get update \
+    && apt-get -y install git docker-ce docker-ce-cli
