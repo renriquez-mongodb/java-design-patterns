@@ -1,4 +1,4 @@
-## Opening notebook.ipynb in Codespaces
+## Setup
 
 1. Open your repository in GitHub Codespaces.
 2. In the Codespaces environment, open a terminal and run the following commands to install and enable the Java kernel:
