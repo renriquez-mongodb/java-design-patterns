@@ -1,6 +1,6 @@
 {
     "name": "Java Design Patterns",
-    "image": "mcr.microsoft.com/devcontainers/java:0-17",
+    "build": { "dockerfile": "Dockerfile" },
     "customizations": {
         "vscode": {
             "extensions": [
