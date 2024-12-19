@@ -4,7 +4,6 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                // Add your extensions here
                 "vscjava.vscode-java-pack",
                 "redhat.java",
                 "vscjava.vscode-maven",
@@ -12,7 +11,12 @@
                 "pivotal.vscode-spring-boot",
                 "vscjava.vscode-java-debug",
                 "vscjava.vscode-java-test",
-                "vscjava.vscode-java-dependency"
+                "vscjava.vscode-java-dependency",
+                "mongodb.mongodb-vscode",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.vscode-jupyter-cell-tags",
+                "ms-toolsai.vscode-jupyter-powertoys",
+                "ms-toolsai.jupyter-keymap"
             ],
             "settings": {
                 "java.home": "/usr/local/sdkman/candidates/java/current"
