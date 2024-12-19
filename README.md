@@ -24,3 +24,4 @@
 (Design Patterns Summary)[https://www.mongodb.com/blog/post/building-with-patterns-a-summary]
 (MongoDB University - Schema Design Patterns)[https://learn.mongodb.com/courses/schema-design-patterns]
 (MongoDB University - Advanced Schema Design Patterns)[https://learn.mongodb.com/courses/advanced-schema-design-patterns]
+(Using POJOs)[https://www.mongodb.com/docs/drivers/java/sync/v4.3/fundamentals/data-formats/document-data-format-pojo/]
