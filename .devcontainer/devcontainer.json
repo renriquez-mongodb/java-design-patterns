@@ -16,7 +16,8 @@
                 "ms-toolsai.jupyter",
                 "ms-toolsai.vscode-jupyter-cell-tags",
                 "ms-toolsai.vscode-jupyter-powertoys",
-                "ms-toolsai.jupyter-keymap"
+                "ms-toolsai.jupyter-keymap",
+                "ms-azuretools.vscode-docker"
             ],
             "settings": {
                 "java.jdt.ls.java.home": "/usr/local/sdkman/candidates/java/current"
