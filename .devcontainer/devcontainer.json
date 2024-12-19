@@ -19,7 +19,7 @@
                 "ms-toolsai.jupyter-keymap"
             ],
             "settings": {
-                "java.home": "/usr/local/sdkman/candidates/java/current"
+                "java.jdt.ls.java.home": "/usr/local/sdkman/candidates/java/current"
             }
         }
     },

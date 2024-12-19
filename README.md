@@ -1,3 +1,5 @@
+# MongoDB Design Patterns (in Java)
+
 ## Setup
 
 1. Open your repository in GitHub Codespaces.
@@ -12,3 +14,13 @@
 7. Enter the URL you copied in step 3.
 8. Select Java
 9. You can now run the cells in the notebook using the Java kernel.
+
+## Execute
+
+1. In the `notebook.ipynb` Replace the `mongo-uri-here` with the provided MongoDB connection string it should look like `mongodb+srv://<username>:<password>@cluster.mongodb.net/`
+
+## Resources
+
+(Design Patterns Summary)[https://www.mongodb.com/blog/post/building-with-patterns-a-summary]
+(MongoDB University - Schema Design Patterns)[https://learn.mongodb.com/courses/schema-design-patterns]
+(MongoDB University - Advanced Schema Design Patterns)[https://learn.mongodb.com/courses/advanced-schema-design-patterns]
