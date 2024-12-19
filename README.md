@@ -3,7 +3,9 @@
 ## Setup
 
 1. Open your repository in GitHub Codespaces.
+
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?quickstart=1&repo=renriquez-mongodb/java-design-patterns)
+
 2. In the Codespaces environment, open a terminal and run the following commands to install and enable the Java kernel:
     ```sh
     docker run -it --rm -p 8888:8888 jbindinga/java-notebook
