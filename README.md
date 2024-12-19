@@ -3,7 +3,6 @@
 1. Open your repository in GitHub Codespaces.
 2. In the Codespaces environment, open a terminal and run the following commands to install and enable the Java kernel:
     ```sh
-    docker pull jbindinga/java-notebook
     docker run -it --rm -p 8888:8888 jbindinga/java-notebook
     ```
 3. Copy the URL from the terminal output (it will look something like `http://127.0.0.1:8888/?token=...`).
